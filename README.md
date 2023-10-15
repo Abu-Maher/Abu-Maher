@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://is.gd/m59MkT">Hello there 👋, It’s me Ameer AKA Abu Maher 
-    <!--img src="https://wakatime.com/badge/user/018b30bb-9f66-462a-89b5-da069a0ec131.svg" alt="WakaTime" style="vertical-align: middle;" /-->
+    <img src="https://wakatime.com/badge/user/018b343f-3cad-4f2f-8327-c37afd6cfee2.svg" alt="WakaTime" style="vertical-align: middle;" />
   </a>
 </h1>
 <div align="center">
