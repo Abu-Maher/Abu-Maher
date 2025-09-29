@@ -15,7 +15,7 @@
 
 - 📍 I’m located in Zarqa, Jordan
 
-- ⌨️ I’m currently working on [Florida Inc.](https://discord.gg/florida)
+- ⌨️ I’m not working on anything at the moment.
 
 - 📚 I’m currently learning **Next.js and design UI/UX.**
 
