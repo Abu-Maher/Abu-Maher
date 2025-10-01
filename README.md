@@ -205,5 +205,5 @@
 <a href="https://fb.com/amer.alntsheh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amer.alntsheh" height="30" width="40" /></a>
 <a href="https://instagram.com/itsabumaher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsabumaher" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/abumaher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abumaher" height="30" width="40" /></a>
-<a href="https://discord.gg/florida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="florida" height="30" width="40" />
+<a href="https://discord.gg/pDy6GfJaa7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Flux Script" height="30" width="40" />
 </p>
