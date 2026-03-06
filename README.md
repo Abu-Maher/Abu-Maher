@@ -37,7 +37,7 @@
       <a href="https://antigravity.google" target="_blank" rel="noreferrer">
         <img src="https://antigravity.google/assets/image/antigravity-logo.png" alt="c" width="40" height="40" />
       </a>
-      <p>Notepad++</p>
+      <p>Antigravity</p>
     </td>
     <td align="center" width="96">
       <a href="https://www.lua.org" target="_blank" rel="noreferrer">
