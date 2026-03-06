@@ -34,8 +34,8 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="https://notepad-plus-plus.org" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/800px-Notepad%2B%2B_Logo.svg.png" alt="c" width="40" height="40" />
+      <a href="https://antigravity.google" target="_blank" rel="noreferrer">
+        <img src="https://antigravity.google/assets/image/antigravity-logo.png" alt="c" width="40" height="40" />
       </a>
       <p>Notepad++</p>
     </td>
@@ -186,7 +186,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/640px-Rust_programming_language_black_logo.svg.png" alt="rust" width="40" height="40" />
+        <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" alt="rust" width="40" height="40" />
       </a>
       <p>Rust</p>
     </td>
