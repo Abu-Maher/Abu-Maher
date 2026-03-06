@@ -100,7 +100,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
+        <img src="https://logowik.com/content/uploads/images/express-js1720895493.logowik.com.webp" alt="express" width="40" height="40" />
       </a>
       <p>Express.js</p>
     </td>
@@ -180,7 +180,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40" />
       </a>
       <p>Adobe Photoshop</p>
     </td>
