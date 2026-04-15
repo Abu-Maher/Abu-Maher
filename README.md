@@ -41,7 +41,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.lua.org" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg alt="c" width="40" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="c" width="40" height="40" />
       </a>
       <p>Lua</p>
     <td align="center" width="96">
